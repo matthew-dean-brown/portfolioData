@@ -2,10 +2,13 @@
     "data":
         [
             {
-               "home": "Welcome to my portfolio"
+               "home": [
+                    {"Welcome":"Welcome, I am"}, 
+                    {"intro":["a Web Development Lecturer", "an aspiring Software Developer"] }
+               ]
             },
             {
-                "about":"This is my about page"
+                "about":"My name is Matthew Dean Brown"
             }
         ]
         
